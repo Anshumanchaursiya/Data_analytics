@@ -1,0 +1,1 @@
+AWS_ACCESS_KEY_ID='put here aws access key' AWS_SECRET_ACCESS_KEY='put here aws secret key' /usr/local/bin/aws s3 sync s3://logs-backup.cloudmi.datami.com/deployments/DEPLOYMENT_NAME/aacmi/audit/ ../s3-data/DEPLOYMENT_NAME/accmi"/
